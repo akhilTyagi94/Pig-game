@@ -9,3 +9,5 @@ There are some simple rules for this game as follows:-
 I hope you enjoy this simple dice game. 
 
 Enjoy playing!
+
+You can see the output by clicking this link : https://codepen.io/BadBorn/full/LYQbqXy
